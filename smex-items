@@ -1,0 +1,41 @@
+
+;; ----- smex-history -----
+(
+ spacemacs/home
+ magit-reset-hard
+ find-name-dired
+ ibuffer
+ diminish-undo
+ popwin:messages
+ recover-this-file
+)
+
+;; ----- smex-data -----
+(
+ (company-tern . 1)
+ (package-list-packages . 14)
+ (auto-compile-mode . 1)
+ (auto-complete . 1)
+ (helm-documentation . 1)
+ (spacemacs/home . 2)
+ (customize-group . 16)
+ (yas-new-snippet . 6)
+ (message-mail . 1)
+ (popwin:messages . 5)
+ (open-line . 1)
+ (browse-url . 2)
+ (linum-mode . 1)
+ (nodejs-repl . 1)
+ (nodejs-repl-send-region . 1)
+ (nodejs-repl-send-line . 1)
+ (helm-do-ag-project-root . 1)
+ (package-autoremove . 2)
+ (evil-search-next . 1)
+ (find-name-dired . 4)
+ (ibuffer . 4)
+ (helm-ag . 1)
+ (helm-ag-help . 1)
+ (diminish-undo . 2)
+ (recover-this-file . 1)
+ (magit-reset-hard . 1)
+)
